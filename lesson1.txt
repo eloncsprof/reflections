@@ -1,0 +1,19 @@
+I would not have to rename files to keep track of earlier changes in case I wanted to recover them.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+Answer:
+1. Pro is you get to make save at a logical break point that makes sense. It could be compilable code.
+1. Con: You might forget to commit and the commit value could be lost.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Answer: Git wants to track changes that impact each other and software definitely follows this paradigm. Google docs treats each do as an independent variable.
+
+How can you use the commands git log and git diff to view the history of files?
+Answer: git log shows the files that have been changed with the commit message for each commit.
+git diff shows the actuals changes made to changed files between two commit id.
+
+How might using version control make you more confident to make changes that could break something?
+Answer: I am confident that with a single command that I can get all the files back to the original state.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Answer: Using for upcoming Javascript Basics course to check in and out files for repository as we go through editing the resume file.
