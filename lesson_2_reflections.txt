@@ -12,3 +12,6 @@ Answer: A branch makes sense for a new feature that may not make it into the mas
 
 How do the diagrams help you visualize the branch structure?
 Answer: Give a sense of what each branch contains and what it does not contain.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Answer: All of the changes made by the two branches are merged unless conflicts into a combined branch.
