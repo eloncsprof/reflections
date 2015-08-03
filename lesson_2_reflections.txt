@@ -15,3 +15,6 @@ Answer: Give a sense of what each branch contains and what it does not contain.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Answer: All of the changes made by the two branches are merged unless conflicts into a combined branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Answer: If no issues then automatic is great and make developer life easy. If possible conflicts then makes sense for developer to resolve.
