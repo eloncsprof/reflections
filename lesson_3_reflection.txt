@@ -14,3 +14,8 @@ Answer: You can work offline and decide to merge the latest changes with your wo
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Answer: Great question. The shared repository makes it easy to fork copies of a project or share copies of a project and to then jointly work and
 communicate needed changes.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Answer: You have a feature that you want to develop and test out. The feature will take time and you do not want the current development and
+changes from master to be delayed to incorporate the change.
+
