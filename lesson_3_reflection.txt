@@ -3,3 +3,7 @@ Answer: If I needed to have multliple computers or multiple users access the rep
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Answer: You might lose some of the files that you have changed and not committed yet. You want to be in control over your state and when it changes.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Answer: forks are used on github to github. It makes a copy of another persons repository under your account on github. Clone makes a copy of
+a github repository on your own computer. Branches are on your current repository.
