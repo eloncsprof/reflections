@@ -7,3 +7,6 @@ Answer: You might lose some of the files that you have changed and not committed
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Answer: forks are used on github to github. It makes a copy of another persons repository under your account on github. Clone makes a copy of
 a github repository on your own computer. Branches are on your current repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Answer: You can work offline and decide to merge the latest changes with your work.
