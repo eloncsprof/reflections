@@ -10,3 +10,7 @@ a github repository on your own computer. Branches are on your current repositor
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Answer: You can work offline and decide to merge the latest changes with your work.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Answer: Great question. The shared repository makes it easy to fork copies of a project or share copies of a project and to then jointly work and
+communicate needed changes.
