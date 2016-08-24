@@ -21,3 +21,7 @@ Helps to see where a branch started to understand.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 All of the commits get rolled together in commit time order. It uses a simple merge algorithm to decide which changes to keep.
+
+What are the pros and cons of Git's automatic merging vs always doing merges manually?
+
+Clearly it would take a crystal ball and an incredible algorithm to figure out the correct resolution of conflicts between developers. It is much simpler to flag code.
