@@ -19,3 +19,6 @@ When would you want to make changes in a separate branch rather than directly in
 Answer: You have a feature that you want to develop and test out. The feature will take time and you do not want the current development and
 changes from master to be delayed to incorporate the change.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Can work off-line and know how files differ
+
