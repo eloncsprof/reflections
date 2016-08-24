@@ -22,3 +22,5 @@ changes from master to be delayed to incorporate the change.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Can work off-line and know how files differ
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+You would have no central respository to merge, push and pull from. It would be up to one person to centrally control the update and distribution of repositories.''
