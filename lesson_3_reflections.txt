@@ -4,3 +4,7 @@ If multiple developers were working on the same project or if I accessed the cod
 Why might yo want to always pull changes manually rather than having Git automatically stay up to date with your remote repository?
 
 You might not want to get updates as  you are working on a bug fix or have partial code that you do not want to develop to a changing product.
+
+Describe the differences between forks, clones and branches. When would you use one and not the other?
+
+Forks is to get repository from someone else that you are not allowed to modify but want to give credit for their work.. Clone is to get a repository from someoneelse and download to your local machines.
