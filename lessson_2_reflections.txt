@@ -5,3 +5,7 @@ Creates the meta data for git to track changes.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area are for files to be identified or grouped to identify a logical change. Once the subset is put in staging area and stable then they can be all put together into a repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+This is mainly discipine. Only add files to staging area that belong to a single feature or bug fix.
