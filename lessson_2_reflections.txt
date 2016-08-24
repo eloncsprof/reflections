@@ -1,0 +1,7 @@
+what happens when you initialize a repository? Why do you need to do it?
+
+Creates the meta data for git to track changes.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area are for files to be identified or grouped to identify a logical change. Once the subset is put in staging area and stable then they can be all put together into a repository.
