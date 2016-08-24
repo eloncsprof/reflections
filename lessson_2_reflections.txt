@@ -17,3 +17,7 @@ Perhaps each new feature should be on a branch and get merged in. This would mak
 How do the diagrams help you visualize the branch structure?
 
 Helps to see where a branch started to understand.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+All of the commits get rolled together in commit time order. It uses a simple merge algorithm to decide which changes to keep.
